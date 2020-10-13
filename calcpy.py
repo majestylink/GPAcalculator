@@ -1,6 +1,7 @@
 import time
 
 average = []
+# Trying out some git stuffs
 
 
 def collect():
